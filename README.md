@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Al Quds Lana**
 
-- 🌱 I’m currently learning **MERN Stack, Web 3.0 & Metaverse.**
+- 🌱 I’m currently learning **Python Programming**
 
 - 👯 I’m looking to collaborate on **Al Quds Lana**
 
