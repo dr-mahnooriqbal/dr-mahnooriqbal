@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahnoor Iqbal</h1>
-<h3 align="center">Data Sciences Aspirant.</h3>
+<h3 align="center">Data Science Aspirant.</h3>
 <img src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif" height=250px width=250px/ alignment="centre" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-mahnooriqbal&label=Profile%20views&color=0e75b6&style=flat" alt="dr-mahnooriqbal" /> </p>
