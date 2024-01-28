@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahnoor Iqbal</h1>
-<h3 align="center">An Enthusiast Front-End Developer.</h3>
+<h3 align="center">Data Sciences Aspirant.</h3>
 <img src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif" height=250px width=250px/ alignment="centre" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-mahnooriqbal&label=Profile%20views&color=0e75b6&style=flat" alt="dr-mahnooriqbal" /> </p>
@@ -8,11 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@iqbal29_mahnoor" target="blank"><img src="https://img.shields.io/twitter/follow/@iqbal29_mahnoor?logo=twitter&style=for-the-badge" alt="@iqbal29_mahnoor" /></a> </p>
 
-- 🔭 I’m currently working on **Al Quds Lana**
-
 - 🌱 I’m currently learning **Python Programming**
-
-- 👯 I’m looking to collaborate on **Al Quds Lana**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dr-mahnooriqbal](https://github.com/dr-mahnooriqbal)
 
@@ -20,7 +16,6 @@
 
 - 📫 How to reach me **mahnoor.iqbal456@gmail.com**
 
-- ⚡ Fun fact **I am the Liziest person ever .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
